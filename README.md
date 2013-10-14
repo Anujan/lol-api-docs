@@ -18,7 +18,7 @@ The base URL for all the requests is http://lol-api.herokuapp.com/api, so if you
 ## [/recent_games/:account_id](https://github.com/anujan/lol-api-docs/recent_games.md)
 *Returns all the games in the summoner's match history*
 
-## [/leagues/:summoner_id])(https://github.com/anujan/lol-api-docs/leagues.md)
+## [/leagues/:summoner_id](https://github.com/anujan/lol-api-docs/leagues.md)
 *Returns the leagues for that summoner*
 
 ## [/mastery_pages/:summoner_id](https://github.com/anujan/lol-api-docs/mastery_pages.md)
