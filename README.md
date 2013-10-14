@@ -1,5 +1,5 @@
 ##Usage
-The base URL for all the requests is http://vast-spire-6004.herokuapp.com/api, so if you want to get summoner information an example request would be `http://lol-api.herokuapp.com/api/na/summoner/mrquackers`.
+The base URL for all the requests is http://lol-api.herokuapp.com/api, so if you want to get summoner information an example request would be `http://lol-api.herokuapp.com/api/na/summoner/mrquackers`.
 
 **Supported Regions: NA, EUW, EUNE, TR, BR, OCE**
 
